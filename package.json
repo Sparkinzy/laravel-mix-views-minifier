@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-views-minifier",
-  "version": "2.0.2",
+  "version": "3.0.9",
   "description": "Minify template files with Laravel Mix",
   "main": "src/index.js",
   "scripts": {
@@ -9,12 +9,12 @@
   "author": "Sparkinzy <sparkinzy@163.com>",
   "license": "MIT",
   "dependencies": {
-    "laravel-mix": "^1.0",
-    "html-minifier": "^3.0.1"
+    "laravel-mix": "6.0.43",
+    "html-minifier": "4.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sparkinzy/laravel-mix-views-minifier"
+    "url": "https://github.com/f4bio/laravel-mix-views-minifier"
   },
   "keywords": [
     "laravel",
